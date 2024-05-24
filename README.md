@@ -3,4 +3,8 @@ The Project contains 2 folders:
  2. Consists of the backend codebase written in Golang.
 
 Here is the illustration that will take you through to a video which has demonstrated as to how the application works in and out! 
-[Illustration](https://github.com/ArjunMalhotra07/Student_Manager/assets/86117727/11eed1f8-a3f9-4370-a6e2-1a9cd4611030)
+
+
+
+https://github.com/ArjunMalhotra07/Student_Manager/assets/86117727/a465531b-0ab6-411b-864b-a0676c40c9bf
+
